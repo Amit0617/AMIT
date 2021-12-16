@@ -3,7 +3,7 @@
 
 #### Just a person who wants to contribute more than consumption.
 
-Pursuing B.tech from Faculty of Engineering and Technology,JAMIA MILLIA ISLAMIA
+Pursuing B.tech from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amit0617)  
