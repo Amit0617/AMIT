@@ -21,3 +21,4 @@ Pursuing B.tech from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amit0617)  
 
 ![Profile views](https://gpvc.arturio.dev/amit0617)  
+<p align="right">![]https://komarev.com/ghpvc/?username=amit0617&style=flat&color=blue</p>
