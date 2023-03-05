@@ -18,10 +18,19 @@ Using any of the given database
 2. psql & 
 3. supabase  
 
-Does scripting using python and sometimes shell to automate things.  
+Loves scripting using python and sometimes shell to automate things.  
 Have experience with Scraping sites - whether site is html based or dynamically gets rendered with javascript.
 
-Web3 developer with hardhat.  
+Web3 developer with hardhat. zk-Dev with circom  
+
+Developer in day, h4ck3r at night.  
+Web Application peneteration tester.  
+
+OpenSource developer when feeling grateful.  
+Blockchain developer when feeling neophiliac.  
+Frontend developer when feeling creative.  
+Backend developer when feeling experienced.  
+ML & AI developer when feeling entrepreneurial.  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amit0617)](https://github.com/ryo-ma/github-profile-trophy)
