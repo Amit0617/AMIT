@@ -8,9 +8,11 @@ Frontend developer with following tech stack
 1. React.js, 
 2. Gatsby.js & 
 3. NEXT.js  
+
 Backend developer with 
 1. Express.js and 
-2. Flask  
+2. Flask
+ 
 Using any of the given database
 1. Mysql/MariaDB, 
 2. psql & 
