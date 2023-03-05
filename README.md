@@ -18,12 +18,11 @@ Using any of the given database
 2. psql & 
 3. supabase  
 
-Does scripting using python and sometimes shell to automate things.
+Does scripting using python and sometimes shell to automate things.  
 Have experience with Scraping sites - whether site is html based or dynamically gets rendered with javascript.
 
 Web3 developer with hardhat.  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amit0617)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amit0617)](https://github.com/ryo-ma/github-profile-trophy)
 
