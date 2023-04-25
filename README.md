@@ -3,7 +3,7 @@
 
 #### Just a person who wants to contribute more than consumption.
 
-Pursuing B.tech from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA
+Pursuing B.tech from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA  
 Frontend developer with following tech stack 
 1. React.js, 
 2. Gatsby.js & 
@@ -46,4 +46,5 @@ ML & AI developer when feeling entrepreneurial.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amit0617)  
 
 ![Profile views](https://gpvc.arturio.dev/amit0617)  
+The difference should be 264 because applied another one later, just curious if they really work.  
 <p align="right"><img src="https://komarev.com/ghpvc/?username=amit0617&style=flat&color=blue"></p>
