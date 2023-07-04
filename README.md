@@ -32,6 +32,8 @@ Frontend developer when feeling creative.
 Backend developer when feeling experienced.  
 ML & AI developer when feeling entrepreneurial.  
 
+### Here's the [CV](https://flowcv.com/resume/rskb5ln60v)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amit0617)](https://github.com/ryo-ma/github-profile-trophy)
 
