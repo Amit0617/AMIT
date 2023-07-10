@@ -26,7 +26,7 @@ Web3 developer with hardhat. zk-Dev with circom
 Developer in day, h4ck3r at night.  
 Web Application peneteration tester.  
 
-OpenSource developer when feeling grateful.  
+OpenSource developer when feeling curious.  
 Blockchain developer when feeling neophiliac.  
 Frontend developer when feeling creative.  
 Backend developer when feeling experienced.  
