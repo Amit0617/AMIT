@@ -19,7 +19,7 @@ Using any of the given database
 3. supabase  
 
 Loves scripting using python and sometimes shell to automate things.  
-Have experience with Scraping sites - whether site is html based or dynamically gets rendered with javascript.
+Have experience with Scraping sites - whether site is html based or gets rendered dynamically by javascript.
 
 Web3 developer with hardhat. zk-Dev with circom  
 
