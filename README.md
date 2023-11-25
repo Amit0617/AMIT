@@ -1,5 +1,4 @@
-# AMIT 
-### Hi there 👋, my name is AMIT KUMAR MISHRA
+# AMIT KUMAR MISHRA 
 
 #### Just a person who wants to contribute more than consumption.
 
