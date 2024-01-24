@@ -9,8 +9,9 @@ Frontend developer with following tech stack
 3. NEXT.js  
 
 Backend developer with 
-1. Express.js and 
-2. Flask
+1. Express.js,
+2. GoFiber and 
+3. Flask
  
 Using any of the given database
 1. Mysql/MariaDB, 
@@ -20,7 +21,7 @@ Using any of the given database
 Loves scripting using python and sometimes shell to automate things.  
 Have experience with Scraping sites - whether site is html based or gets rendered dynamically by javascript.
 
-Web3 developer with hardhat. zk-Dev with circom  
+Web3 developer with hardhat. zk-Dev with circom.  
 
 Developer in day, h4ck3r at night.  
 Web Application peneteration tester.  
