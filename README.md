@@ -1,6 +1,6 @@
 # AMIT KUMAR MISHRA 
 
-#### Just a person who wants to contribute more than consumption, loves to transition between research and entrepreneurship, solving problems and making impact. 
+#### Just a person who wants to have greater contribution than his consumption, loves to transition between research and entrepreneurship, solving problems and making impact. 
 
 Pursuing B.tech from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA  
 Frontend developer with following tech stack 
