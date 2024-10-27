@@ -39,7 +39,7 @@ ML & AI developer when feeling entrepreneurial.
 
 ### Here's the [CV, click here](https://flowcv.com/resume/rskb5ln60v)  
 
-### Tell me about a problem you faced and solved.
+### Q. Tell me about a problem you faced and solved.
 Out of many [technical problems](https://amit0617.hashnode.dev/how-to-update-github-actions-workflow-file-using-another-workflow), I got through [open](https://replit.com/bounties/@rotorstar/online-web-3-quartet) [source](https://replit.com/bounties/@anilmurty/akash-console-improv-3) [bounties](https://replit.com/bounties/@anilmurty/akash-console-improv-2). 
 
 One of the very real life problem, <em>poverty</em>, on which I continuously tinker and have come up with [many](https://amit0617.hashnode.dev/the-accidental-wealth-found-in-a-student-engineers-wallet-address) [innovative ideas.](https://amit0617.hashnode.dev/draining-null-address-an-ethereum-experiment) This reflects my perseverance and agility behind a problem, many people get accustomed to. (parody)  
