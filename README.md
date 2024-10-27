@@ -1,8 +1,11 @@
 # AMIT KUMAR MISHRA 
 
-#### Just a person who wants to have greater contribution than his consumption, loves to transition between research and entrepreneurship, solving problems and making impact. 
+**Just a person who wants to have greater contribution than his consumption, loves to transition between research and entrepreneurship, solving problems and making impact.** 
 
-Pursuing B.tech from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA  
+B.tech(2024) from Faculty of Engineering and Technology, JAMIA MILLIA ISLAMIA  
+
+<details>
+ <summary><b>Full-Stack Developer</b></summary>
 Frontend developer with following tech stack 
 1. React.js, 
 2. Gatsby.js & 
@@ -17,11 +20,12 @@ Using any of the given database
 1. Mysql/MariaDB, 
 2. psql & 
 3. supabase  
+</details>
 
-Loves scripting using python and sometimes shell to automate things.  
-Have experience with Scraping sites - whether site is html based or gets rendered dynamically by javascript.
+Loves scripting using [python](https://github.com/Amit0617/online-attendance) and sometimes [shell](https://github.com/Amit0617/directory-downloader) to [automate](https://github.com/Amit0617/copilot-commit-in-terminal) things.  
+Have experience with [Scraping sites](https://github.com/pocoai/jobScraper/blob/main/scrapeJobs.ipynb) - whether site is html based or gets rendered dynamically by javascript.
 
-Web3 developer with hardhat. zk-Dev with circom.  
+Web3 developer with hardhat & foundry. Have [extensive experience](https://github.com/amit0617/ethRPCtoREST) with JSON RPC api of execution layer of Ethereum. zk-Dev with circom.  
 
 Developer in day, h4ck3r at night.  
 Web Application peneteration tester.  
@@ -33,6 +37,9 @@ Backend developer when feeling experienced.
 ML & AI developer when feeling entrepreneurial.  
 
 ### Here's the [CV, click here](https://flowcv.com/resume/rskb5ln60v)  
+
+### Tell me about a problem you faced and solved.
+Out of many [technical problems](https://amit0617.hashnode.dev/how-to-update-github-actions-workflow-file-using-another-workflow), I got through [open](https://replit.com/bounties/@rotorstar/online-web-3-quartet) [source](https://replit.com/bounties/@anilmurty/akash-console-improv-3) [bounties](https://replit.com/bounties/@anilmurty/akash-console-improv-2). One of the very real life problem, <em>poverty</em>, on which I continuously tinker and have come up with [many](https://amit0617.hashnode.dev/the-accidental-wealth-found-in-a-student-engineers-wallet-address) [innovative ideas.](https://amit0617.hashnode.dev/draining-null-address-an-ethereum-experiment) This reflects my perseverance and agility behind a problem, many people get accustomed to.  
 
 ### Badges
 
